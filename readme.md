@@ -13,4 +13,13 @@ npm install
 ```bash
 npm start
 ```
+## Test
+
+```bash
+npm test
+```
+
+#License
+
+MIT
 
