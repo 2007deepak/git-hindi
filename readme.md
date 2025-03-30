@@ -2,7 +2,7 @@
 
 ## Install
 
- this is readme file
+ this is Installation Instruction
 ``` bash
 npm install
 
